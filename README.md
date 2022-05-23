@@ -23,7 +23,15 @@
 </p>
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cesaretam&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=cesaretam&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesaretam&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=22si55sdl6dwnrqv3p6alr6gy&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" /></div>
 
