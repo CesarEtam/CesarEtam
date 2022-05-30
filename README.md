@@ -10,15 +10,22 @@
 - 📫 How to reach me **cesar.etam@hotmail.com**
 - 📄 Know about my experiences [cesaretam.github.io](cesaretam.github.io)
 
-<p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/c%c3%a9sar-et%c3%a3-cardoso-de-almeida-9968b878/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Perfil do Linkedin" height="30" width="40" /></a>
-</p>
+## Social Medias
 
-## **Github Stats**
+<div style="display: inline_block"><br>
+  <a href="https://instagram.com/cesaretam" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/ouroborus7" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:cesar.etam@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/c%c3%a9sar-et%c3%a3-cardoso-de-almeida-9968b878/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://instagram.frez1-1.fna.fbcdn.net/v/t51.2885-19/284416287_737353067452574_8624169380688236054_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.frez1-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=LeVW2Dr8TggAX-k8lnm&edm=ALbqBD0BAAAA&ccb=7-5&oh=00_AT_sV_8bCctJNnUwfbTZl6qPHRU3NSJXpzuouT-L-OFmsQ&oe=629CFC20&_nc_sid=9a90d6">
+</div>
 
-<p align="center"><a href="#Github-Stats"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=cesaretam&show_icons=true&count_private=true&hide_border=true&theme=onedark" /></a> <a href="#Github-Stats"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesaretam&hide_border=true&layout=compact&theme=onedark" /></a></p>
+## Github Stats
 
-<table align="center" width=100% border=0>
+<p align="center"><a href="#Github-Stats"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=cesaretam&show_icons=true&count_private=true&hide_border=true&theme=onedark" /></a> <a href="#Github-Stats"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesaretam&hide_border=true&layout=compact&theme=onedark" /></a></p>
+
+<table align="center">
   <tr>
     <td>
       <h3 align="left">Front-End</h3>
