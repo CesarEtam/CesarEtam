@@ -23,8 +23,6 @@
 
 ## Github Stats
 
-<p align="center"><a href="#Github-Stats"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=cesaretam&show_icons=true&count_private=true&hide_border=true&theme=onedark" /></a> <a href="#Github-Stats"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesaretam&hide_border=true&layout=compact&theme=onedark" /></a></p>
-
 <table align="center">
   <tr>
     <td>
