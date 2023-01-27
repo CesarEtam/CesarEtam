@@ -21,7 +21,7 @@
   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://instagram.frez1-1.fna.fbcdn.net/v/t51.2885-19/284416287_737353067452574_8624169380688236054_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.frez1-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=LeVW2Dr8TggAX-k8lnm&edm=ALbqBD0BAAAA&ccb=7-5&oh=00_AT_sV_8bCctJNnUwfbTZl6qPHRU3NSJXpzuouT-L-OFmsQ&oe=629CFC20&_nc_sid=9a90d6">
 </div>
 
-## Github Stats
+## Skills Stats
 
 <table align="center">
   <tr>
