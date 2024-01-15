@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning **ReactJS / Native**
 - 👯 I’m looking to collaborate on **my repositories**
 - 🤝 I’m looking for help with [Bootcamp Dio.me](dio.me)
-- 👨‍💻 All of my projects are available at [https://github.com/CesarEtam](https://github.com/CesarEtam)
 - 💬 Ask me about **HTML, CSS, PHP, JS, TS**
 - 📫 How to reach me **cesar.etam@hotmail.com**
 - 📄 Know about my experiences [cesaretam.github.io](cesaretam.github.io)
